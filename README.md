@@ -1,7 +1,7 @@
 <h2>Hello there 👋, I'm Angelo Bartolome</h2>
 Full-Stack & Mobile Software Engineer, looking on building solutions with cutting-edge tech
 
-- I’m currently working on **Avenue8, as a software engineer**
+- I’m currently working at **ActiveTheory, as a software engineer**
 
 - I’m looking to collaborate on **open-source projects**
 
