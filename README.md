@@ -3,6 +3,9 @@ Full-Stack & Mobile Software Engineer, looking on building solutions with cuttin
 
 - I’m currently working at **ActiveTheory, as a software engineer**
 
+- Creator of [**Part3D**](https://apps.apple.com/us/app/part3d/id6642710061), CAD app built exclusively for iPad, designed to simplify 3D modeling for hobbyists and light CAD work.
+
+
 - I’m looking to collaborate on **open-source projects**
 
 - Ask me about **Node.js, Android, iOS, anything tho.**
