@@ -14,7 +14,7 @@ Full-Stack & Mobile Software Engineer, looking on building solutions with cuttin
 
 <h4 align="left">Find me:</h4>
 <p align="left">
-<a href="https://twitter.com/angelosmb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angelosmb7" height="30" width="40" /></a>
+<a href="https://twitter.com/angelosmb7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" alt="angelosmb7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/angelombartolome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelombartolome" height="30" width="40" /></a>
 <a href="https://instagram.com/angelosmb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angelosmb" height="30" width="40" /></a>
 </p>
